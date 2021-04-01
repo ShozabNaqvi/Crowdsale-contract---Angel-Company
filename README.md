@@ -120,7 +120,7 @@
 
 7. Room for Improvement
 
-* Adding:
+* Adding: 
 	1. Function to converting time -- Unix Timestamp conversion tools 
 
 	2. Validate the business operation 
